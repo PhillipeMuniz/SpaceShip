@@ -1,6 +1,6 @@
 # SpaceShip
 
-Introdução
+### Introdução
 
 Bem-vindo ao ano 2912, onde suas habilidades em ciência de dados são necessárias para resolver um mistério cósmico. Recebemos uma transmissão a quatro anos-luz de distância e as coisas não estão boas.
 
@@ -8,11 +8,11 @@ O navio espacial Titanic foi um navio de passageiros interestelar lançado há u
 
 Enquanto passava pelo Alpha Centauri, a caminho de sua primeira destinação, o 55 Cancri E, o desavisado navio espacial Titanic colidiu com uma anomalia do espaço-tempo escondida dentro de uma nuvem de poeira. Infelizmente, teve um destino semelhante ao de seu homônimo 1000 anos antes. Embora o navio tenha permanecido intacto, quase metade dos passageiros foi transportada para uma dimensão alternativa!
 
-Objetivo
+### Objetivo
 
 Para ajudar as equipes de resgate e recuperar os passageiros perdidos, você é desafiado a prever quais passageiros foram transportados pela anomalia usando registros recuperados do sistema de computador danificado do navio espacial. Ajude a salvá-los e mude a história!
 
-Dicionário dos dados
+### Dicionário dos dados
 
 + PassengerId: Id único para cada passageiro. Cada Id é no formato gggg_pp, onde gggg indica um grupo com o qual o passageiro está viajando e pp é o número dele dentro do grupo. Pessoas em um grupo geralmente são familiares, mas nem sempre.
 
@@ -34,7 +34,7 @@ Dicionário dos dados
 
 + Transported: Se o passageiro foi transportado para outra dimensão. Este é o alvo, a coluna que você está tentando prever.
 
-Resultados
+# Resultados
 Após a criação do modelo foi feito o submission do arquivo no link da competição do Kaggle no qual atingimos a acurácia de 0.79962
 .
 ![image](https://user-images.githubusercontent.com/118780563/214736307-2cc04823-36fa-4a9d-a9cf-09c829d3ae8f.png)
