@@ -38,3 +38,7 @@ Para ajudar as equipes de resgate e recuperar os passageiros perdidos, você é 
 Após a criação do modelo foi feito o submission do arquivo no link da competição do Kaggle no qual atingimos a acurácia de 0.79962
 .
 ![image](https://user-images.githubusercontent.com/118780563/214736307-2cc04823-36fa-4a9d-a9cf-09c829d3ae8f.png)
+
+# Link da competição no Kaggle
+
+https://www.kaggle.com/competitions/spaceship-titanic/overview
